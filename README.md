@@ -50,7 +50,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## HELLO RAILS BACK END <a name="react-app-link"></a>
+## Hello Rails Back End <a name="hello-rails-back-end"></a>
 
 - [ RAILS BACK END link](https://github.com/EmekaEmmanuel/hello-rails-back-end/tree/back1) 
 
