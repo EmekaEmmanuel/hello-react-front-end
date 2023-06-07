@@ -1,11 +1,10 @@
-import React, { useEffect } from 'react'
+import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchGreets } from '../redux/greet/greetSlice'; 
+import { fetchGreets } from '../redux/greet/greetSlice';
 
 function Greeting() {
-
   // const myMissions = useSelector((state) => state.mission.missions);
-  const myGreets = useSelector((state) => state.greet.greets)
+  const myGreets = useSelector((state) => state.greet.greets);
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -24,7 +23,7 @@ function Greeting() {
     <div>
       <div>
         <h1>Greeting Component</h1>
-        
+
       </div>
       <div>
         {myGreets?.map((myGreet) => (
@@ -32,7 +31,7 @@ function Greeting() {
         ))}
       </div>
     </div>
-  )
+  );
 }
 
-export default Greeting
+export default Greeting;
