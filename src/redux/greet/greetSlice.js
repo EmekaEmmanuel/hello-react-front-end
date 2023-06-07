@@ -14,8 +14,6 @@ export const fetchGreets = createAsyncThunk('greet/fetchGreets', async () => {
   return data;
 });
 
-/* eslint-disable no-param-reassign */
-
 const greetSlice = createSlice({
   name: 'greet',
   initialState,
@@ -34,7 +32,5 @@ const greetSlice = createSlice({
       });
   },
 });
-
-/* eslint-disable no-param-reassign */
 
 export default greetSlice.reducer;
