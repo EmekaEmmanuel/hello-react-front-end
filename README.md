@@ -44,10 +44,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://) 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Hello Rails Back End <a name="hello-rails-back-end"></a>
@@ -55,10 +51,6 @@
 - [ RAILS BACK END link](https://github.com/EmekaEmmanuel/hello-rails-back-end/tree/back1) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Project Presentation <a name="project-presentation"></a>
-
-- [Project Presentation video link](https://)  
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
