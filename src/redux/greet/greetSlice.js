@@ -37,6 +37,4 @@ const greetSlice = createSlice({
 
 /* eslint-disable no-param-reassign */
 
-export default greetSlice.reducer;
-
-// export const { bookRocket, unreserveRocket } = rocketSlice.actions;
+export default greetSlice.reducer; 
