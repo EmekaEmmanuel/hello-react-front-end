@@ -37,4 +37,4 @@ const greetSlice = createSlice({
 
 /* eslint-disable no-param-reassign */
 
-export default greetSlice.reducer; 
+export default greetSlice.reducer;

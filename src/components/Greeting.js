@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchGreets } from '../redux/greet/greetSlice';
 
-function Greeting() { 
+function Greeting() {
   const myGreets = useSelector((state) => state.greet.greets);
   const dispatch = useDispatch();
 
